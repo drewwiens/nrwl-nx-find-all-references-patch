@@ -1,4 +1,4 @@
-# farp: Find All References Patch
+Nrwl Nx Find All References Patch
 
 As of 02-03-2021, Visual Studio Code's Find All References feature [doesn't work between apps and libs](https://github.com/nrwl/nx/issues/3106) in [Nrwl Nx](https://github.com/nrwl/nx) workspaces. This Node CLI utility temporarily and non-destructively applies the workaround from that GitHub issue to your Nx workspace.
 
