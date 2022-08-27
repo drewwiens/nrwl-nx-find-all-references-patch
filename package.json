@@ -1,10 +1,10 @@
 {
-  "name": "farp",
+  "name": "nrwl-nx-find-all-references-patch",
   "version": "1.0.4",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/adwiens/farp.git"
+    "url": "https://github.com/drewwiens/nrwl-nx-find-all-references-patch.git"
   },
   "bin": {
     "farp": "./farp.js",
